@@ -34,7 +34,5 @@ To deploy this project run
 
 ## Screenshots
 
-![1](https://github.com/KarolCioc/coffeListing/assets/127849180/d902851c-c5c8-4203-a055-b883e9bdbce0)
-![2](https://github.com/KarolCioc/coffeListing/assets/127849180/bfb5890a-cf0f-4c6a-a3cd-5e519ebf4fae)
-![3](https://github.com/KarolCioc/coffeListing/assets/127849180/cec57e4c-ca86-4509-8e9f-af0405508518)
+<img src="assets/images/1.jpg">
 
