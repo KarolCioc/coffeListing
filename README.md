@@ -33,6 +33,9 @@ To deploy this project run
 
 
 ## Screenshots
-
-<img src="./assets/images/1.jpg" width=315 height=683>
+<p float="left">
+ <img src="./assets/images/1.jpg" width=315>
+ <img src="./assets/images/2.jpg" width=315>
+ <img src="./assets/images/3.jpg" width=315>
+</p>
 
