@@ -34,5 +34,5 @@ To deploy this project run
 
 ## Screenshots
 
-<img src="assets/images/1.jpg">
+<img src="./assets/images/1.jpg">
 
