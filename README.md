@@ -10,7 +10,7 @@
 
 
 ## API Reference
-- Used API server: https://raw.githubusercontent.com/devchallenges-io/web-project-ideas/main/front-end-projects/data/simple-coffee-listing-data.json
+- Translator API from myMemory
 #### Get all items
 
 
@@ -32,7 +32,7 @@ To deploy this project run
 ```
 
 
-## Screenshots
+## Overview
 <p float="left">
  <img src="./assets/images/1.jpg" width=260>
  <img src="./assets/images/2.jpg" width=260>
